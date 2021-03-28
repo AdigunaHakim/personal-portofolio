@@ -5,7 +5,7 @@ class Experience extends Component {
   render() {
     return (
       <div className="condiv">
-        <h1 className="subtopic">My Experience</h1>
+        <h1 className="subtopic">Experience</h1>
         <Widecard
           title="Technical Lead of IT Common Service Enablement"
           where="PT Bank Tabungan Pensiun Nasional | Jakarta, Indonesia"
@@ -13,7 +13,7 @@ class Experience extends Component {
           to="Present"
         />
         <Widecard
-          title="Application Development Engineer | Fullstack Developer"
+          title="Software Engineer | Fullstack Developer"
           where="PT Bank Tabungan Pensiun Nasional | Jakarta, Indonesia"
           from="Feb 2019"
           to="Aug 2019"

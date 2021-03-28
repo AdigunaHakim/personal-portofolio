@@ -121,6 +121,10 @@ h1,h2,h3,h4,p{
   margin:30px;
 }
 
+.thridtext{
+  font-size: medium;
+}
+
 @media all and (max-width: 450px) {
   :root {
     --fontsize-nav:1rem;
