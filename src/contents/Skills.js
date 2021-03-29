@@ -15,7 +15,7 @@ class Skills extends Component {
         "Kubernates",
         "Docker",
         "Analysis",
-        "Architecture"
+        "Architecture",
       ],
     };
   }
@@ -26,7 +26,11 @@ class Skills extends Component {
         <h1 className="subtopic">Skills</h1>
         <ul>
           {this.state.myskills.map((value) => {
-            return <li>{value}</li>;
+            return (
+              <li>
+                {value}
+              </li>
+            );
           })}
         </ul>
         <div class="ui segment">
