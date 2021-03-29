@@ -11,10 +11,12 @@ class Home extends Component {
         <ReactTypingEffect
           className="typingeffect"
           text={[
-            "Iam a Software Engineer \n and Technology Enthusiast",
+            "I'm a Software Engineer \n and Technology Enthusiast",
             "Let's Explore..",
           ]}
-          speed={100}
+          speed={60}
+          eraseDelay={5000}
+          eraseSpeed={60}
           staticText={"> Hi, My Name Adiguna."}
         />
         <Social />
