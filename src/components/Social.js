@@ -5,7 +5,7 @@ class Social extends Component {
     return (
       <div class="social">
         <a
-          href="https://github.com/naaficodes"
+          href="https://github.com/AdigunaHakim"
           target="_blank"
           rel="noopener noreferrer"
         >
