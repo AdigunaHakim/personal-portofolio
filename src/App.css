@@ -111,6 +111,14 @@ h1,h2,h3,h4,p{
   background-color: #ffffff;
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
+.widecard .compdet .thridtext{
+  font-size: medium;
+  font-style: italic;
+}
+
+.widecard .compdet .detail{
+  font-size: medium;
+}
 .active
 {
   font-weight: bolder;
@@ -119,10 +127,6 @@ h1,h2,h3,h4,p{
 {
   list-style-type:none;
   margin:30px;
-}
-
-.thridtext{
-  font-size: m;
 }
 
 @media all and (max-width: 450px) {
