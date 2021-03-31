@@ -16,7 +16,6 @@ class Home extends Component {
           ]}
           speed={60}
           eraseDelay={5000}
-          eraseSpeed={60}
           staticText={"> Hi, My Name Adiguna."}
         />
         <Social />

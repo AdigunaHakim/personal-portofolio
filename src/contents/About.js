@@ -21,7 +21,7 @@ class About extends Component {
         <p>
           I'm very interested in the topic of machine learning, big data & web
           scrapping. I am very enthusiastic about exploring java, javasciprt,
-          go, python and its frameworks.
+          go, python and its framework.
         </p>
       </div>
     );
