@@ -13,6 +13,9 @@ class Widecard extends Component {
           <p className="detail">
             {this.props.detail}
           </p>
+          <p className="tech">
+            {this.props.tech}
+          </p>
         </div>
       </div>
     );

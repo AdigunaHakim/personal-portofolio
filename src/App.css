@@ -115,9 +115,12 @@ h1,h2,h3,h4,p{
   font-size: medium;
   font-style: italic;
 }
-
 .widecard .compdet .detail{
   font-size: medium;
+}
+.widecard .compdet .tech{
+  font-size: medium;
+  font-weight: bold;
 }
 .active
 {
