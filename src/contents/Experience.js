@@ -12,9 +12,9 @@ class Experience extends Component {
           from="Aug 2019"
           to="Present"
           detail="Responsible for research, design and develop REST API microservice of common requirement for banking systems (customer & account verification, mutation etc) 
-          and integrate with thrid party (CRM, ECM, Datalake, Kafka & API Gateway).
+          and integrate with thrid party (CRM, ECM, Datalake, Kafka & API Gateway). Build ocr (optical character recognition) engine to identify card. Build pipeline CI/CD Config (Git, Jenkins, Nexus, Openshift).
           Maintain quality and product delivery, also code review, refractor & groom with developer."
-          tech="Java | SpringBoot | Angular | Kafka | Redis | MySQL | HBase | Elastic | Logstash | Kibana | Openshift | CICD"
+          tech="Java | SpringBoot | Angular | Kafka | Redis | MySQL | Tesseract | Apache | Phoenix | Hadoop | HBase | Elastic | Logstash | Kibana | Openshift | CICD"
         />
         <Widecard
           title="Software Engineer | Fullstack Developer"
@@ -22,6 +22,7 @@ class Experience extends Component {
           from="Feb 2019"
           to="Aug 2019"
           detail="Responsible as a fullstack developer to build website & microservice of consolidation report system (portofolio & mutation) for priority customers.
+          Build pipeline CI/CD Config (Git, Jenkins, Nexus, Openshift).
           Build engine scheduler for generate report & handle ETL from datalake & integrate with notification systems."
           tech="Java | SpringBoot | NodeJS | React | GraphQL | Jasper | Kafka | Redis | MySQL | HBase | Elastic | Logstash | Kibana | Openshift | CICD"
         />
